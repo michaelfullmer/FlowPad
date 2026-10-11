@@ -1,0 +1,5 @@
+{
+  "name": "FlowPad",
+  "description": "A mobile-friendly songwriting studio with lyric editor, syllable counter, rhyme suggestions, and audio sampler.",
+  "requestFramePermissions": ["microphone"]
+}
